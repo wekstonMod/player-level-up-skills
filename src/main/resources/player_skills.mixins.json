@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.Wekston.player_skills.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "peakstamina.refmap.json",
+  "client": [
+    "MixinLocalPlayer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

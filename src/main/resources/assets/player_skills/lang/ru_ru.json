@@ -1,0 +1,11 @@
+{
+  "player_skills.health": "Здоровье",
+  "player_skills.stamina": "Выносливость",
+  "player_skills.power": "Сила",
+  "player_skills.avoidance": "Уклонение",
+  "player_skills.level": "Уровень %s",
+  "key.category.player_skills": "Player: Level UP Skills",
+  "key.player_skills.skill_menu": "Открыть меню прокачки",
+  "player_skills.attribute": "Атрибуты",
+  "player_skills.level_up": "Повышение уровня"
+}

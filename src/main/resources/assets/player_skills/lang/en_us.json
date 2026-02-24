@@ -1,0 +1,11 @@
+{
+  "player_skills.health": "Health",
+  "player_skills.stamina": "Stamina",
+  "player_skills.power": "Power",
+  "player_skills.avoidance": "Avoidance",
+  "player_skills.level": "Level %s",
+  "key.category.player_skills": "Player: Level UP Skills",
+  "key.player_skills.skill_menu": "Open skill menu",
+  "player_skills.attribute": "Attributes",
+  "player_skills.level_up": "Raising the level"
+}
